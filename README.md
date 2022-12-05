@@ -35,7 +35,5 @@ you can register and login and also can use the default admin user for the dashb
 [email:admin@test.com,
 password:12345678]
 
-## License
-[KarimTarek]
 
 
