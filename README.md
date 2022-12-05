@@ -17,5 +17,8 @@ rename .env.example to .env
 php artisan key:generate
 ```
 create your database
+update .env file
+
+
 
 
