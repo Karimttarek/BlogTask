@@ -19,6 +19,16 @@ php artisan key:generate
 create your database
 update .env file
 
+## Database Migration
+
+```bash
+php artisan module:migrate Auth
+php artisan module:migrate Dashboard
+
+php artisan db:seed
+```
+
+
 
 
 
