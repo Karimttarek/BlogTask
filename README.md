@@ -14,12 +14,13 @@ composer install
 
 ## Quick startk
 rename .env.example to .env
+create your database
+update .env file
 
 ```bash
 php artisan key:generate
 ```
-create your database
-update .env file
+
 
 ## Database Migration
 ```bash
