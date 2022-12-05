@@ -32,7 +32,7 @@ php artisan serve
 
 ## At least
 you can register and login and also can use the default admin user for the dashboard
-[email:admin@test.com
+[email:admin@test.com,
 password:12345678]
 
 
