@@ -2,7 +2,6 @@
 
 
 ## Installation
-
 ```bash
 git clone https://github.com/Karimttarek/BlogTask.git
 ```
@@ -20,13 +19,21 @@ create your database
 update .env file
 
 ## Database Migration
-
 ```bash
 php artisan module:migrate Auth
 php artisan module:migrate Dashboard
 
 php artisan db:seed
 ```
+## Run The Server
+```bash
+php artisan serve
+```
+
+## At least
+you can register and login and also can use the default admin user for the dashboard
+email:admin@test.com
+password:12345678
 
 
 
