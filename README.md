@@ -23,7 +23,8 @@ update .env file
 ```bash
 php artisan module:migrate Auth
 php artisan module:migrate Dashboard
-## Contributing
+```
+```bash
 php artisan db:seed
 ```
 ## Run The Server
