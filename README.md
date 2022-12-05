@@ -4,7 +4,8 @@
 ## Installation
 ```bash
 git clone https://github.com/Karimttarek/BlogTask.git
-``````bash
+```
+```bash
 cd BlogTask
 ```
 ```bash
