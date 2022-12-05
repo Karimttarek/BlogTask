@@ -10,3 +10,12 @@ git clone https://github.com/Karimttarek/BlogTask.git
 composer install
 ```
 
+## Quick startk
+rename .env.example to .env
+
+```bash
+php artisan key:generate
+```
+create your database
+
+
