@@ -11,28 +11,28 @@ cd BlogTask
 ```bash
 composer install
 ```
-
+## Contributing
 ## Quick startk
 rename .env.example to .env
 
 ```bash
 php artisan key:generate
 ```
+## Contributing
 create your database
 update .env file
-
 ## Database Migration
 ```bash
 php artisan module:migrate Auth
 php artisan module:migrate Dashboard
-
+## Contributing
 php artisan db:seed
 ```
 ## Run The Server
 ```bash
 php artisan serve
 ```
-
+## Contributing
 ## At least
 you can register and login and also can use the default admin user for the dashboard
 [email:admin@test.com,
