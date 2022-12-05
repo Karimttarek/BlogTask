@@ -9,7 +9,7 @@
 
 ## Installation
 
-git clone https://github.com/Karimttarek/BlogTask.git
+<p>git clone https://github.com/Karimttarek/BlogTask.git</p>
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
