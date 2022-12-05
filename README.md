@@ -4,6 +4,8 @@
 ## Installation
 ```bash
 git clone https://github.com/Karimttarek/BlogTask.git
+``````bash
+cd BlogTask
 ```
 ```bash
 composer install
