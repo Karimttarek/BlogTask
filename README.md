@@ -40,5 +40,8 @@ you can register and login and also can use the default admin user for the dashb
 [email:admin@test.com,
 password:12345678]
 Warning:only admin can visit dashboard
-
+## URL
+```bash
+127.0.0.1:8000/blog
+```
 
